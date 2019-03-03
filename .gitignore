@@ -31,4 +31,8 @@
 *.out
 *.app
 
+# mbed temp/build files
 .temp/
+.mbed
+BUILD/
+mbed_settings.*
